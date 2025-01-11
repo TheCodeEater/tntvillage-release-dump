@@ -50,7 +50,8 @@ CATEGORIA: ID numerico relativo alla categoria della release
 - 36 - Edicola
 - 37 - Mobile
 
-
+# ATTENZIONE
+Nel 2025 questo link contiene il reindirizzamento ad una pagina (mediante ads) considerata dannosa da ublock origin
 ## Informazioni URL release (forum TNTVillage)
 
 Data una voce nel file CSV, tramite l'ID numerico incluso nel campo "TOPIC" è possibile risalire al corrispondente URL della release sul forum di TNTVillage.
